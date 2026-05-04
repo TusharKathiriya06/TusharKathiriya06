@@ -1,25 +1,72 @@
 # Hi, I'm Tushar Kathiriya 👋
 
-As an innovative Software Engineer with 3+ years of experience in Product Development, I specialize in building outstanding digital solutions that elevate user experiences.
+### Full Stack Developer · Mobile & Web · Cloud
+
+Software Developer with **4 years of experience** building scalable, production-grade digital solutions across web, mobile, and cloud platforms.
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend & Mobile**
 
 ![ReactJS](https://img.shields.io/badge/react.js-00d1f7?style=for-the-badge&logo=react&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Flutter](https://img.shields.io/badge/flutter-065798?style=for-the-badge&logo=flutter&logoColor=white)
-![Android Studio](https://img.shields.io/badge/android-3bd580?style=for-the-badge&logo=android&logoColor=white)
 ![ElectronJS](https://img.shields.io/badge/electron-2a2d38?style=for-the-badge&logo=electron&logoColor=%239be4f2)
+![Android Studio](https://img.shields.io/badge/android-3bd580?style=for-the-badge&logo=android&logoColor=white)
+
+**Backend & APIs**
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+
+**Cloud & DevOps**
+
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-d62b00?style=for-the-badge&logo=firebase&logoColor=white)
-![Postgresql](https://img.shields.io/badge/postgresql-31648c?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-e84d31?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Databases & Tools**
+
+![Postgresql](https://img.shields.io/badge/postgresql-31648c?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-9d56f7?style=for-the-badge&logo=figma&logoColor=white)
 
-Software Developer [@Texple Technologies](https://texple.com/)
+**AI Dev Tools**
 
-## Projects
-- Trading Platform: Flutter, React.js, Node.js , AWS, Firebase
-- IOT Health Application: Android Studio, Java, node.js, AWS
-- Identity Verification App: Flutter, React.js, Electron.js, Node.js, Firebase
+![Claude](https://img.shields.io/badge/claude_code-cc785c?style=for-the-badge&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 
-## 📫 How to reach me:
-tusharkathiriya70@gmail.com | [LinkdIn](https://www.linkedin.com/in/tusharkathiriya/)
+---
+
+## 🚀 Projects
+
+| Project | Stack | Highlights |
+|---------|-------|------------|
+| **Workforce Management Platform** | Next.js, React, Node.js, Socket.IO, Redux, PostgreSQL | Kanban boards, real-time notifications, RBAC with CASL, leave workflows |
+| **SEBI-Approved Trading & Portfolio Platform** | Flutter, React.js, Node.js, AWS, Firebase, PostgreSQL | Live trading signals, portfolio management, admin dashboard |
+| **Identity Verification & Liveness Detection** | Flutter, React.js, Electron.js, Node.js, Firebase | Face liveness detection, QR-based identity validation, compliance dashboard |
+| **UPI Transaction Validation System** | React.js, Flutter, Node.js, PostgreSQL, AWS | Tamper detection on payment screenshots, duplicate prevention, admin workflows |
+| **IoT Health Monitoring Application** | Android Studio, Java, Node.js, AWS | Bluetooth device integration, instant diagnostics, BMS socket commands |
+| **Real Estate Management Application** | React.js, Node.js, PostgreSQL | Property tracking, analytics dashboards, PDF reporting, expense management |
+
+---
+
+## 💡 What I Do
+
+- 🔧 Build **end-to-end cross-platform apps** with React.js, Next.js, Flutter & Node.js
+- ☁️ Design & deploy **secure cloud architectures** on AWS (EC2, S3, Lambda, RDS, IAM)
+- 🤖 Integrate **AI/ML features** — face recognition, liveness detection, OCR validation
+- 📡 Develop **real-time systems** with Socket.IO and WebSocket
+- 🔐 Implement **RBAC, authentication flows**, and security best practices
+- 📱 Create **IoT-enabled mobile solutions** with Bluetooth device communication
+
+---
+
+## 📫 Reach me
+
+[![Email](https://img.shields.io/badge/tusharkathiriya70@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tusharkathiriya70@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tusharkathiriya/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TusharKathiriya06)
