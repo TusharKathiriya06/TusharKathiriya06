@@ -41,19 +41,6 @@ Software Developer with **4 years of experience** building scalable, production-
 
 ---
 
-## 🚀 Projects
-
-| Project | Stack | Highlights |
-|---------|-------|------------|
-| **Workforce Management Platform** | Next.js, React, Node.js, Socket.IO, Redux, PostgreSQL | Kanban boards, real-time notifications, RBAC with CASL, leave workflows |
-| **SEBI-Approved Trading & Portfolio Platform** | Flutter, React.js, Node.js, AWS, Firebase, PostgreSQL | Live trading signals, portfolio management, admin dashboard |
-| **Identity Verification & Liveness Detection** | Flutter, React.js, Electron.js, Node.js, Firebase | Face liveness detection, QR-based identity validation, compliance dashboard |
-| **UPI Transaction Validation System** | React.js, Flutter, Node.js, PostgreSQL, AWS | Tamper detection on payment screenshots, duplicate prevention, admin workflows |
-| **IoT Health Monitoring Application** | Android Studio, Java, Node.js, AWS | Bluetooth device integration, instant diagnostics, BMS socket commands |
-| **Real Estate Management Application** | React.js, Node.js, PostgreSQL | Property tracking, analytics dashboards, PDF reporting, expense management |
-
----
-
 ## 💡 What I Do
 
 - 🔧 Build **end-to-end cross-platform apps** with React.js, Next.js, Flutter & Node.js
